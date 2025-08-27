@@ -3,9 +3,9 @@ Application Development and Emerging Technologies
 Academic Year 2025-2026
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
-- **Program:** [Your Academic Program]
+- **Name:** Pontanares, Juliet S.
+- **Student ID:** 231002289
+- **Program:** Bachelor of Science in Computer Science
 - **Section:** [Your Section]
 
 ## Repository Structure

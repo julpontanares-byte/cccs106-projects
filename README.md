@@ -40,19 +40,26 @@ Academic Year 2025-2026
 2. Virtual environment activated: `cccs106_env\Scripts\activate`
 3. Flet installed: `pip install flet==0.28.3`
 
-## Commit and push README.md
+## How to Commit and Push README.md
 
-  # Add the updated README.md file to the staging area
-  # This stages the modified README.md file so it will be included in the next commit
-  # Git tracks changes to this file and prepares it for version control
-  git add README.md
-  
-  # Commit the staged changes with a descriptive message
-  # Creates a permanent snapshot of the README.md updates in the repository history
-  # The commit message should clearly describe what was changed for future reference
-  git commit -m "Update README.md with new application information"
-  
-  # Push the committed changes to the remote GitHub repository
-  # Synchronizes your local main branch with the remote repository on GitHub
-  # This makes your updated README.md visible to others and backs up your changes
-  git push origin main
+To update your README.md on GitHub, follow these steps in your terminal or command prompt:
+
+1. **Add the README.md file to the staging area:**
+   ```bash
+   git add README.md
+   ```
+   This stages your changes to README.md so they are ready to commit.
+
+2. **Commit the staged changes with a descriptive message:**
+   ```bash
+   git commit -m "Update README.md with new application information"
+   ```
+   This records your changes in the repository history.
+
+3. **Push the committed changes to GitHub:**
+   ```bash
+   git push origin main
+   ```
+   This uploads your changes to the remote repository, making them visible to others.
+
+---
